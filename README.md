@@ -13,3 +13,4 @@ Jekyll is a nice static cms .
 - Just making a post in the ```_post``` directory in markdown will cause the server to render the components automatically       using Jekyll's Markdownify 
 - Minimalistic style of the theme .
 - It can take up to 10 minutes for github to render the webpages .
+- Integrated with disqus comment section .
