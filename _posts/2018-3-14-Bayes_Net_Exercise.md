@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bayes net Exercise
+comments: true
 ---
 
 
